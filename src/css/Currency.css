@@ -1,0 +1,36 @@
+.currency_display{
+    width: 25%;
+}
+#inputGroupSelect01{
+    width: 200px!important;
+    cursor: pointer;
+    border-radius: 0;
+    outline: none;
+    border-top-right-radius: 10px;
+}
+.currency_display .row{
+    display: flex;
+    justify-content: center;
+    padding-right: 0;
+    font-weight: 600;
+}
+.currency_display .row .col-sm-4{
+    position: relative;
+    left: 25px;
+    top: 0;
+}
+#inputGroupSelect01:focus{
+    border-color: #ced4da;
+    box-shadow: 0 0 0 0.2rem #fff;
+    
+}
+@media screen and (max-width: 768px){
+    .currency_display{
+        width: 100%;
+        padding: 15px;
+    }
+    .currency_display .row .col-sm-4{
+        left: 0;
+    }
+    
+}
