@@ -18,7 +18,7 @@ class HomePage extends Component {
                     <div className="row">
                         {dataAppened !== "" ?
                             dataAppened.map((item, index) => (
-                                <div key={index} className="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+                                <div key={index} className="col-lg-4 col-md-6 col-sm-6 col-xs-12 animated fadeIn">
                                     <div className="cart">
                                         <img src={item.image} alt="hi" />
                                         <h6>{item.name}</h6>
