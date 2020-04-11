@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dkartshoppingcart/static/css/main.f0fa48ff.chunk.css",
+    "main.js": "/dkartshoppingcart/static/js/main.9e9f595e.chunk.js",
+    "main.js.map": "/dkartshoppingcart/static/js/main.9e9f595e.chunk.js.map",
+    "runtime-main.js": "/dkartshoppingcart/static/js/runtime-main.21785dad.js",
+    "runtime-main.js.map": "/dkartshoppingcart/static/js/runtime-main.21785dad.js.map",
+    "static/js/2.dbdb5f1a.chunk.js": "/dkartshoppingcart/static/js/2.dbdb5f1a.chunk.js",
+    "static/js/2.dbdb5f1a.chunk.js.map": "/dkartshoppingcart/static/js/2.dbdb5f1a.chunk.js.map",
+    "index.html": "/dkartshoppingcart/index.html",
+    "precache-manifest.ada297dcf10488354b0af8fd2cffeb9b.js": "/dkartshoppingcart/precache-manifest.ada297dcf10488354b0af8fd2cffeb9b.js",
+    "service-worker.js": "/dkartshoppingcart/service-worker.js",
+    "static/css/main.f0fa48ff.chunk.css.map": "/dkartshoppingcart/static/css/main.f0fa48ff.chunk.css.map",
+    "static/js/2.dbdb5f1a.chunk.js.LICENSE.txt": "/dkartshoppingcart/static/js/2.dbdb5f1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21785dad.js",
+    "static/js/2.dbdb5f1a.chunk.js",
+    "static/css/main.f0fa48ff.chunk.css",
+    "static/js/main.9e9f595e.chunk.js"
+  ]
+}
